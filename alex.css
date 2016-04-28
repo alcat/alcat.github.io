@@ -120,6 +120,13 @@ html, body {
 	text-align: center;
 }
 
+.pt5 {
+	color: #CDCFFF;
+	font-family: Plantin;
+	font-size: 30px;
+	letter-spacing: 5px;
+	text-align: center;
+}
 .pt6 {
 	font-family: Plantin;
 	color: #ffbdbd;
